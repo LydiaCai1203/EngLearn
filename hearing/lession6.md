@@ -29,6 +29,20 @@ toothbrush                      牙刷
 toothpaste                      牙膏
 hairbrush                       梳子
 a sore throat                   喉咙疼(sore 疮)
+Turkish                         土耳其
+Ankara                          土耳其的首都
+Swedish                         瑞典
+plumber                         水管工
+album                           专辑
+marry them off to me            把他们嫁给我
+present continuous tense        现在进行时
+convey                          传达
+habitual                        习惯性的
+ask about someone               询问某人
+fascinating                     迷人
+March the 15th 2008             2008年3月15日
+September 10th                  9月10日
+1975                            nineteen seventy five
 ```
 
 ## 语句
@@ -100,6 +114,18 @@ What do you recommend?
 
 你有治头痛的东西吗？
 Have you got something for headache?
+
+她是我的好朋友。
+She is a good friend of mine.
+
+她有一套漂亮的小公寓。
+She has a nice little flat.
+
+看看这些句子。
+Have a look at these sentences.
+
+他做什么？
+What does he do?
 ```
 
 ## 语法
@@ -121,4 +147,20 @@ thriller            惊悚片
 comedy              喜剧
 musical             音乐舞台剧
 romance             言情剧
+```
+
+### 3. 一般现在时 && 现在进行时
+
+```markdown
+1. 一般现在时
+描述的是一种习惯性的状态
+2. 现在进行时
+描述的是现在此刻的状态，但是以后会改变
+```
+
+### 4. Introduce
+
+```markdown
+1. introduce me to someone
+2. introduce someone to me
 ```
